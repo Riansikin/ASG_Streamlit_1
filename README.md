@@ -1,2 +1,2 @@
 # ASG_Streamlit_1
-# Coming Soon
+This is my first project using streamlit. This project analyze sales and customer from the given dataset.
